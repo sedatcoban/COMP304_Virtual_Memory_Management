@@ -1,10 +1,7 @@
 COMP 304 
 Spring 2021
 Project 3
-
-Project Members:
-Sedat Çoban 60545
-Burcu Özer 64535
+Sedat Çoban 
 
 Part I
 To run the code, after compiling, backing store file is taken as the first argument and the logical address file is taken as the second argument.
